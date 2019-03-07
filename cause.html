@@ -10,27 +10,18 @@
   svg{
 
       display: block;
-
       margin-left: 10%;
-
       margin-bottom: 50px
-
     }
 
   h2{
-
     margin-left: 300px;
-
   }
 
   div{
-
     position: absolute;
-
     display: block;
-
     top: 50px;
-
     left: 700px
 
   }
@@ -47,7 +38,7 @@
 			var legendwidth = 15;
 			var legendheight = 15;
 			var legendpadding = 5;	
-			var data = d3.csv ("cause.json");
+			var data = d3.json ("cause.json");
 			var drawChart = function(data){
 				
 				// Create SVG element
