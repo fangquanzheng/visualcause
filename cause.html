@@ -106,8 +106,7 @@
 				       		return d.color
 						})
 			}
-			dataset.forEach(function(d){
-				d.then(function(data){
+			data.then(function(data){
 					drawChart(data)
 				})		
 			})
