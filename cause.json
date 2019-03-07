@@ -1,0 +1,68 @@
+[
+{
+"Company":"Google",		
+"Annual":285000
+},
+{
+"Company":"Apple",
+"Annual":258000
+},
+{
+"Company":"Intel Corporation",
+"Annual":235000
+},
+{
+"Company":"Linkedln",
+"Annual":210000
+},
+{
+"Company":"Facebook",
+"Annual":209000
+},
+{
+"Company":"Riverbed Technology",
+"Annual":190000
+},
+{"Company":"Qualcomm",
+"Annual":185000
+},
+{"Company":"Citrix System",
+"Annual":180000	
+},
+{"Company":"Agilent Technologies",
+"Annual":177000
+},
+{"Company":"Red Hat",
+"Annual":171000	
+},
+{"Company":"Akamai",
+"Annual":169000	
+},
+{"Company":"SAP",
+"Annual":154000	
+},
+{"Company":"Workday",
+"Annual":151000	
+},
+{"Company":"Eaton",
+"Annual":146000	
+},
+{"Company":"MITRE",
+"Annual":143000	
+},
+{"Company":"MathWorks",
+"Annual":141000	
+},
+{"Company":"National Instruments",
+"Annual":137000	
+},
+{"Company":"Salesforce",
+"Annual":136000	
+},
+{"Company":"Rackspace",
+"Annual":126000	
+},
+{"Company":"Orbitz Worldwide",
+"Annual":121000	
+},
+]
